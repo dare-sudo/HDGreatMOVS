@@ -1,4 +1,4 @@
-const apiKey = 'f06c9609cedcece4b1bb4450304d109a';
+const apiKey = '1203905869d348da5a6cd690c65b25ed';
 const searchInput = document.getElementById('search');
 const movieGrid = document.getElementById('movie-grid');
 const recommendationText = document.getElementById('recommendation-text');
